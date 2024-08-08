@@ -18,6 +18,7 @@ J.A.T.E. is a Progressive Web Application (PWA) that allows you to create notes 
 - [Testing](#testing)
 - [Built With](#built-with)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 ## Features
