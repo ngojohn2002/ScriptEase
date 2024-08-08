@@ -32,9 +32,11 @@ J.A.T.E. is a Progressive Web Application (PWA) that allows you to create notes 
 
 ## User Story
 
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
+```
+AS A developer  
+I WANT to create notes or code snippets with or without an internet connection  
 SO THAT I can reliably retrieve them for later use
+```
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -159,12 +161,12 @@ Lighthouse is an automated tool for improving the quality of web pages. To run a
 
 ## Built With
 
-- **Node.js**: JavaScript runtime.
-- **Express**: Fast, unopinionated, minimalist web framework for Node.js.
-- **Webpack**: Module bundler.
-- **Babel**: JavaScript compiler.
+- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- **Express**: ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- **Webpack**: ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+- **Babel**: ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 - **IndexedDB**: Low-level API for client-side storage of significant amounts of structured data.
-- **Workbox**: JavaScript libraries for adding offline support to web apps.
+- **Workbox**: ![Workbox](https://img.shields.io/badge/Workbox-3D8DD6?style=for-the-badge&logo=workbox&logoColor=white)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -191,4 +193,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 © 2024 Truong Ngo. All rights reserved.
 
 (19 PWA - Progressive Web Application)
-
