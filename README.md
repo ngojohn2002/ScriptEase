@@ -182,6 +182,12 @@ Contributions are welcome! Please follow these steps:
 
 [Back to Table of Contents](#table-of-contents)
 
+## Credits
+
+This project was made possible with the help of [ChatGPT](https://chatgpt.com/).
+
+[Back to Table of Contents](#table-of-contents)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
