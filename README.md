@@ -167,7 +167,7 @@ Lighthouse is an automated tool for improving the quality of web pages. To run a
 - **Webpack**: ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 - **Babel**: ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 - **Workbox**: ![Workbox](https://img.shields.io/badge/Workbox-3D8DD6?style=for-the-badge&logo=workbox&logoColor=white)
-- **IndexedDB**: Low-level API for client-side storage of significant amounts of structured data.
+- **IndexedDB**: ![IndexedDB](https://img.shields.io/badge/IndexedDB-4B0082?style=for-the-badge&logo=indexeddb&logoColor=white)
 
 [Back to Table of Contents](#table-of-contents)
 
